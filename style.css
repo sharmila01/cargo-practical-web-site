@@ -244,7 +244,6 @@ ul {
 .hero__label {
     display: inline-block;
     padding: var(--spacing-xs) var(--spacing-sm);
-    background-color: var(--color-primary);
     color: var(--color-secondary);
     font-weight: 700;
     border-radius: var(--border-radius-sm);
@@ -300,6 +299,7 @@ ul {
     color: var(--color-secondary);
     cursor: pointer;
     transition: var(--transition-base);
+    margin-bottom: -15px;
 }
 
 .hero__control:hover {
