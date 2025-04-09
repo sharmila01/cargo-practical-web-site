@@ -1,0 +1,27 @@
+# 🚚 CarGo Web Site
+
+This project is a responsive front-end implementation of the **Welcome Section** for the TransMax Logistics landing page. It is based on the provided design with HTML and CSS.
+
+---
+
+## 📸 Preview
+
+The section includes:
+- A high-quality logistics image
+- An orange badge displaying total clients
+- A header and description text
+- A call-to-action button labeled **"More About Us"**
+
+---
+
+## 🔧 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox)
+- Responsive Design (Media Queries)
+- Java Script Function
+
+---
+
+## 📁 Project Structure
+
