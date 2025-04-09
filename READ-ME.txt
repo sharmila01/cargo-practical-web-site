@@ -1,27 +1,76 @@
-# 🚚 CarGo Web Site
+Project Title: Xiteb Practical Task 3
 
-This project is a responsive front-end implementation of the **Welcome Section** for the TransMax Logistics landing page. It is based on the provided design with HTML and CSS.
+Task Overview:
+This task involved designing and developing a website based on the instructions provided in the PDF. I had the option to either work on both the design and development or just the development. In this case, I focused on the development aspect, using HTML, CSS, and JavaScript for the project.
 
----
+Task Details:
+Task Objective:
 
-## 📸 Preview
+Design and develop a home page for a website using the provided theme colors, text, and logos.
 
-The section includes:
-- A high-quality logistics image
-- An orange badge displaying total clients
-- A header and description text
-- A call-to-action button labeled **"More About Us"**
+The design should include creativity and structure, with sections as outlined in the provided PDF.
 
----
+For development, I was to use HTML, CSS, and JavaScript (or React, which I am familiar with) to bring the design to life.
 
-## 🔧 Technologies Used
+The website should be responsive and include all the required sections.
 
-- HTML5
-- CSS3 (Flexbox)
-- Responsive Design (Media Queries)
-- Java Script Function
+Hours Spent:
 
----
 
-## 📁 Project Structure
+Development: 2 hrs 45 min
+
+
+Steps Followed:
+Initial Setup:
+
+I started by setting up a local development environment and creating the necessary project files (HTML, CSS, JS).
+
+Organized the folder structure for clarity and ease of navigation.
+
+HTML Structure:
+
+Developed the core structure of the homepage as described in the PDF, including sections like the header, navigation, main content area, and footer.
+
+Used semantic HTML tags to ensure good accessibility and readability.
+
+CSS Styling:
+
+Applied the given theme colors as specified in the PDF.
+
+Focused on making the layout responsive, ensuring that it adapts well on both desktop and mobile devices.
+
+Styled the content, buttons, and other UI elements using CSS to give the page a polished, professional look.
+
+JavaScript Functionality:
+
+Added interactivity using JavaScript. For example, handling navigation dropdowns and other dynamic elements.
+
+Ensured the website was functional, with smooth transitions and no performance issues.
+
+Testing and Debugging:
+
+Checked the website for responsiveness and ensured all sections displayed correctly across different screen sizes.
+
+Debugged any issues related to layout, styling, and JavaScript functionality.
+
+Deployment:
+
+After completing the task, I hosted the website on GitHub Pages for live access and tested it in a live environment.
+
+Uploaded the final project files to a GitHub repository and made the repository public for review.
+
+Technology Used:
+HTML: Used for the structure of the website.
+
+CSS: Used for styling, ensuring a responsive design.
+
+JavaScript: Used for basic interactivity (e.g., dropdowns, button interactions).
+
+GitHub Repository:
+https://github.com/sharmila01/cargo-practical-web-site
+
+GitHub Web Site Link:
+https://sharmila01.github.io/cargo-practical-web-site/
+
+Thank you for reviewing my work. I look forward to your feedback!
 
